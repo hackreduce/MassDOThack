@@ -1,25 +1,25 @@
 Field,Description,Example
-IncSerialNum
-Description
-Status
-Category
-InitDate
-InitiatedBy
-ResolveDate
-ResolvedBy
-RoadwayName
-RoadwayType
-RoadwayDirection
-DetectionMeans
-Severity
-Camera
-Weather
-Temperature
-TrafficState
-RoadSurface
-LastUpdatedBy
-IncTimeStamp
-URCPTEA
-URCPTEB
-WorkOrderNumber
-FireZone
+IncSerialNum,Incident Serial Number,20040526011385
+Description,Human readable description of incident,Disabled motor vehicle I-93 Southbound in the area of the South Bay mall
+Status,Current status of incdient,Closed
+Category,Type of incident,Traffic
+InitDate,Timestamp at which the incident began,2004-05-26 09:58:22.000,
+InitiatedBy,ID of the MassDOT user who started / filed the incident,1
+ResolveDate,Timestamp at which the incident was resolved, 2004-05-26 10:28:31.000
+ResolvedBy,ID of the MassDOT user who resolved the incident,1
+RoadwayName,Name of the road way affected ,I93 South
+RoadwayType,,MAINLINE (also EXIT, RAMP, etc)
+RoadwayDirection,In which direction,1 (1=North, 2=East, 3=South, 4=West), 
+DetectionMeans,How was the incident detected,
+Severity,Severity Code(?),L1
+Camera,Which camera can see the incident(?),295
+Weather,Overall weather conditions,OverCast
+Temperature,Category of temperature,Cool
+TrafficState,What was the oveall traffic volume at the time like,Congested
+RoadSurface,What was the condition of the road surface,Slippery
+LastUpdatedBy,ID of the MassDOT user who last updated the incident,
+IncTimeStamp,?,2004-05-26 21:31:12.047
+URCPTEA,?,
+URCPTEB,?,
+WorkOrderNumber,Any corresponding work order number,
+FireZone,Marked Fire Zone,
