@@ -1,0 +1,31 @@
+Field,Description,Example
+Division,Division the trip is located in,Northern Division
+Route,Route the trip is located in ,Western Route Main Line
+Direction,Direction the trip is heading in,Outward
+ScheduleType,When the trip is normally scheduled for,Daily Except Sun & Mon
+ScheduleDepartureLocation,Location the trip is scheduled to depart from,Boston (North Station)                  
+ScheduleArrivialLocation,Location the trip is scheduled to arrive at,Haverhill                               
+ActualDepartureLocation,Location the trip actually departed from,Boston (North Station)                  
+ActualArrivialLocation,Location the trip actually arrived at,Haverhill                               
+TripStatus,Status of the trip,Late                          
+PeakType,Peak Type,Off Peak                      
+ConsistMakeup,Consist Makeup ( Locomotive & Coaches ) used in the trip,1124 1504 226 1605 206 376 352 1633 
+cTrainNo,Train Number,245
+lDeadHead,1=Non-Revenue 0=Revenue,0
+tTrip,Trip Date ,1/1/2011
+cSchDptTm,Schedule Departure time (in String Format),1:00:00 AM
+cSchArvTm,Schedule Arrivial time (in String Format),2:05:00 AM
+cActDptTm,Actual Departure time (in String Format),1:00:00 AM
+cActArvTm,Actual Arrivial time (in String Format),2:26:00 AM
+iInitialOn,No longer used - data may be present in older records, 
+iPassenger,Passenger Count,240
+iActCars,Number of cars ( coaches ),5
+iCapReq,Required Capacity,350
+iStandees,No longer used - data may be present in older records,0
+iBikes,No longer used - data may be present in older records,0
+iStandee,No longer used - data may be present in older records,0
+nTripMiles,Trip Length in Miles,35.3
+lContract,No longer used - data may be present in older records,0
+iCrewReq,Number of Required Crew,2
+lTripLock,Trip Lock Status 1=Locked 0=Unlocked,1
+lArchiveLock,Atchive Lock Status 1=Archived 0=Not Archived,1
