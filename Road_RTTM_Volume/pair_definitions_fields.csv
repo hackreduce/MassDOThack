@@ -1,7 +1,7 @@
 Field,Description,Example
-pair_id
-Description
-Direction
-Origin
-Destination
-Distance
+pair_id,Identifies a pair of bluetooth sensors in a particular direction,6000
+Description,Textual description of the roadway segment,1S - I-93 SB after Pelham St. in Methuen (u508) <3D>
+Direction,Which direction the pair_id refers to,SB
+Origin,Where does the roadway segment begin,I-93 SB after Pelham St. in Methuen (u508) <3D>
+Destination,I-93 SB before I-95 in Woburn (u495) <1C>
+Distance,The distance in miles of the roadway segment length,15.1

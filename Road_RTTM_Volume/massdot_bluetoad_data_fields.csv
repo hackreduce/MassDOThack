@@ -1,4 +1,4 @@
 Field,Description,Example
-pair_id
-insert_time
-travel_time
+pair_id,Identifies a pair of bluetooth sensors in a particular direction,6000
+insert_time,The time at which the measurement was made,2012-06-13 16:35:00
+travel_time,The time in seconds it takes for cars to travel the road segment between the two sensors,742
