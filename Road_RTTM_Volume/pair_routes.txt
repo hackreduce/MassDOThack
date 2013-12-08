@@ -1,0 +1,4 @@
+pair_routes contains a snapshot of http://www.massdot.state.ma.us/DevelopersData.aspx 
+
+It contains the latitude and longitude of several points which make up
+each roadway segment.
