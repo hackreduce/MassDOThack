@@ -1,14 +1,14 @@
 Field,Description,Example
-Loc ID,,
-County,,
-Community,,
-On,,
+Loc ID,Identifier of the location,1000
+County,Which Massachusetts county the roadway is from,MIDDLESEX
+Community,Which Massachusetts county the roadway is from,Billerica
+On,Name of the roadway segment the measurements were taken,MIDDLESEX TURNPIKE
 From,,
 To,,
-Approach,,
-At,,
-Dir,,
-Latitude,,
-Longitude,,
-Latest,,
-Latest Date,,
+Approach,Description of roadway approach,SOUTH OF
+At,Location of sensor,BEDFORD BILLERIC TOWN L
+Dir,Is the road one or two directions,2-WAY
+Latitude,Latitude of the measurement location,42.5241495248
+Longitude,Latitude of the measurement location,-71.2525511485
+Latest,Latest volume measurement of number of cars per day(?),5600
+Latest Date,Date at which the latest volume measurement was taken,1/1/2006
