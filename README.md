@@ -7,8 +7,5 @@ MassDOT Visualizing Transportation Hackathon, December 2013. Informing the Futur
 
 TODOs:
 ===========
-Remove newlines from Roadway event data
-
-Fill out descriptions for RTTM, Roadway events, and Road_Volume
 
 Pre-aggregate some of the pair data into hour/day
