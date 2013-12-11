@@ -1,0 +1,9 @@
+Field,Description,Example
+Timestamp,Time at which the data was collected,11-08-2013 8:00:00 AM
+Vehicle_ID,Train identity,1713
+Train_Number,Scheduled train route number,808
+Latitude,Current latitude of the train,+42.20576
+Longitude,Current longitude of the train,-071.14929
+Speed_MPH,Current speed of the train in Miles Per Hour,027
+Heading,Current heading of the train in degrees,020
+
