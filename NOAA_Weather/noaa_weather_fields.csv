@@ -1,0 +1,14 @@
+Field,Description,Example
+STATION,ID of weather station,GHCND:USC00191622
+STATION_NAME,Name of weather station, BEDFORD HANSCOM FIELD MA US
+ELEVATION,Elevation above mean sea level (meters),44.5
+LATITUDE,Latitude of the station, 
+LONGITUDE,Longitude of the station
+DATE,The year of the record (4 digits) followed by month (2 digits) and day (2 digits),19040605
+PRCP,Precipitation (tenths of mm),155
+SNWD,Snow depth (mm),25
+SNOW,Snowfall (mm),13
+TMAX,Maximum temperature (tenths of degrees C),6
+TMIN,Minimum temperature (tenths of degrees C),-28
+TOBS,Temperature at the time of observation (tenths of degrees C)
+AWND,Average daily wind speed (tenths of meters per second)
